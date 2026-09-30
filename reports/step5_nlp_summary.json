@@ -1,0 +1,91 @@
+{
+  "example_text": "Great quality product from a trusted brand. This shirt fits perfectly and feels premium.",
+  "example_result": {
+    "cleaned": "great quality product from a trusted brand this shirt fits perfectly and feels premium",
+    "tokens": [
+      "great",
+      "quality",
+      "product",
+      "trusted",
+      "brand",
+      "shirt",
+      "fits",
+      "perfectly",
+      "feels",
+      "premium"
+    ],
+    "stemmed": [
+      "great",
+      "qualiti",
+      "product",
+      "trust",
+      "brand",
+      "shirt",
+      "fit",
+      "perfectli",
+      "feel",
+      "premium"
+    ],
+    "lemmas": [
+      "great",
+      "quality",
+      "product",
+      "trust",
+      "brand",
+      "shirt",
+      "fit",
+      "perfectly",
+      "feel",
+      "premium"
+    ],
+    "pos_tags": [
+      [
+        "great",
+        "JJ"
+      ],
+      [
+        "quality",
+        "NN"
+      ],
+      [
+        "product",
+        "NN"
+      ],
+      [
+        "trusted",
+        "VBD"
+      ],
+      [
+        "brand",
+        "NN"
+      ],
+      [
+        "shirt",
+        "NN"
+      ],
+      [
+        "fits",
+        "VBZ"
+      ],
+      [
+        "perfectly",
+        "RB"
+      ],
+      [
+        "feels",
+        "JJ"
+      ],
+      [
+        "premium",
+        "NN"
+      ]
+    ],
+    "entities": []
+  },
+  "sample_count": 200,
+  "ngram_summary": {
+    "unigram_count": 238301,
+    "bigram_count": 55222,
+    "trigram_count": 98566
+  }
+}

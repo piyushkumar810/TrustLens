@@ -1,0 +1,9 @@
+model,accuracy,precision,recall,f1,roc_auc
+logistic_regression,1.0,1.0,1.0,1.0,1.0
+svm_linear,1.0,1.0,1.0,1.0,1.0
+svm_rbf,1.0,1.0,1.0,1.0,1.0
+decision_tree,1.0,1.0,1.0,1.0,1.0
+random_forest,1.0,1.0,1.0,1.0,1.0
+adaboost,1.0,1.0,1.0,1.0,1.0
+voting_classifier,1.0,1.0,1.0,1.0,1.0
+stacking_classifier,1.0,1.0,1.0,1.0,1.0

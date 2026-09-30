@@ -15,3 +15,9 @@ jupyter>=1.0,<2.0
 
 # Utility for later stages
 python-dotenv>=1.0,<2.0
+
+# Dashboard and local monitoring UI
+streamlit>=1.38,<2.0
+
+# Lightweight API for single-listing lookups
+flask>=3.0,<4.0
