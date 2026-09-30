@@ -1,0 +1,22 @@
+# Virtual environments
+venv/
+.venv/
+
+# Project data and model artifacts
+data/
+models/
+mlruns/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
