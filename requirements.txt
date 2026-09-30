@@ -16,6 +16,10 @@ jupyter>=1.0,<2.0
 # Utility for later stages
 python-dotenv>=1.0,<2.0
 
+# NLP preprocessing and text analysis
+nltk>=3.9,<4.0
+spacy>=3.7,<4.0
+
 # Dashboard and local monitoring UI
 streamlit>=1.38,<2.0
 
